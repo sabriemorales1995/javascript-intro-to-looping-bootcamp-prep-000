@@ -4,3 +4,7 @@ function forLoop(array){
   }
   return array;
 }
+
+function doWhile(){
+  
+}
